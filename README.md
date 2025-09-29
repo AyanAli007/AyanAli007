@@ -73,17 +73,11 @@
 
 ---
 
-<p align>
-✍ ## Random Dev Quote:
+---
+<p align="center">
+Thank you for visiting my GitHub profile! 🚀  
+Feel free to connect, collaborate, or just say hi. ✌️
 </p>
-
-<table align="center" style="border:1px solid #9B40F7; border-radius:10px; width:60%;">
-  <tr>
-    <td align>
-      _“Code never lies, comments sometimes do.” – Ron Jeffries_
-    </td>
-  </tr>
-</table>
 
 
 
