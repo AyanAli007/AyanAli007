@@ -71,6 +71,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AyanAli007&theme=tokyonight&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyanAli&theme=tokyonight&hide_border=false&layout=compact)  
 
+---
+
+✍ **Random Dev Quote:**  
+<i>“Code never lies, comments sometimes do.” – Ron Jeffries</i>
+
 
 
 
