@@ -13,12 +13,21 @@
 ### 🛠 Tech Stack
 
 <p align="">
-  <h4>Full-Stack </h4>
+  <h2>Full-Stack </h2>
   <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,figma,html,css,express,nodejs,mongodb,react" alt="Skills" />
   </a>
 </p>
+
+<p>
+  <h2> Programming Languages </h2>h2> 
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,js,cpp,javascript" alt="Languages" />
+  </a>
+</p>
+
 
 
 
