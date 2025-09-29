@@ -12,9 +12,14 @@
  
 ### 🛠 Tech Stack
 
-<p align=> Full-Stack 
-  [![My Skills](https://skillicons.dev/icons?i=js,figma, html,css,express,nodejs,mongodb,react )](https://skillicons.dev)
+<p align="center">
+  Full-Stack  
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,figma,html,css,express,nodejs,mongodb,react" alt="Skills" />
+  </a>
 </p>
+
 
 
 
