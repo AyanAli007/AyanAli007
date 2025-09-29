@@ -12,8 +12,8 @@
  
 ### 🛠 Tech Stack
 
-<p align="center">
-  Full-Stack  
+<p align="">
+  <h4>Full-Stack </h4>
   <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,figma,html,css,express,nodejs,mongodb,react" alt="Skills" />
