@@ -74,12 +74,12 @@
 ---
 
 <p align>
-✍ **Random Dev Quote:**
+✍ ## Random Dev Quote:
 </p>
 
 <table align="center" style="border:1px solid #9B40F7; border-radius:10px; width:60%;">
   <tr>
-    <td align="center">
+    <td align>
       _“Code never lies, comments sometimes do.” – Ron Jeffries_
     </td>
   </tr>
