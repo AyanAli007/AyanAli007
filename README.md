@@ -73,8 +73,11 @@
 
 ---
 
-✍ **Random Dev Quote:**  
-<i>“Code never lies, comments sometimes do.” – Ron Jeffries</i>
+<p align="center" style="border:1px solid #ddd; padding:15px; border-radius:10px; background-color:#f9f9f9; width:60%; margin:auto;">
+  ✍ <b>Random Dev Quote:</b><br>
+  <i>“Code never lies, comments sometimes do.” – Ron Jeffries</i>
+</p>
+
 
 
 
