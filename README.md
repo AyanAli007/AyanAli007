@@ -21,7 +21,7 @@
 </p>
 
 <p>
-  <h2> Programming Languages </h2>h2> 
+  <h2> Programming Languages </h2> 
   <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,js,cpp,javascript" alt="Languages" />
